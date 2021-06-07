@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+.Header li {
+  list-style-type: none;
+  display: inline;
+}
+.Footer first ul {
+  list-style-type: square;
+  margin: 0;
+  padding: 0%;
+}
+
+.Footer second ul {
+  margin: 0;
+  padding: 0%;
+  float: right;
+}
+
+Footer li {
+  list-style-type: square;
+  background-color: lightgray;
+}
